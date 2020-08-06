@@ -33,7 +33,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- <s>Node.js</s> (próximas aulas)
+- Node.js
 - <s>Nunjucks</s> (próximas aulas)
 
 --- 

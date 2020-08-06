@@ -1,5 +1,5 @@
 <h3 align="center">
-  *🚧 Em construção 🚧*
+  * Em Desenvolvimento *
 </h3>
 
 ## 📋 Índice
@@ -33,8 +33,8 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- <s>Node.js</s> (próximas aulas 🚧)
-- <s>Nunjucks</s> (próximas aulas 🚧)
+- <s>Node.js</s> (próximas aulas)
+- <s>Nunjucks</s> (próximas aulas)
 
 --- 
 

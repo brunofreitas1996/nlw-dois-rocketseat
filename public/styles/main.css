@@ -2,15 +2,15 @@
 /* --color-secondary: #04D361*/
 :root {
     --color-background: #F0F0F7; 
-    --color-primary-lighter: #9871F5;
-    --color-primary-light: #916BEA;
-    --color-primary: #8257E5;
-    --color-primary-dark: #774DD6;
-    --color-primary-darker: #6842C2;
-    --color-secondary: #04D361;
-    --color-secondary-dark: #04BF58;
+    --color-primary-lighter: #faa307;/*#9871F5;*/
+    --color-primary-light: #D38D00;/*#916BEA;*/
+    --color-primary: #f48c06;/*#8257E5*/
+    --color-primary-dark: #ffba08;/*#774DD6;*/
+    --color-primary-darker: #faa307;/*#6842C2;*/
+    --color-secondary: #6a040f;/*/#04D361;*/
+    --color-secondary-dark: #370617;/*#04BF58;*/
     --color-title-in-primary: #FFFFFF;
-    --color-text-in-primary: #D4C2FF;
+    --color-text-in-primary: #F0E68C;
     --color-text-title: #32264D;
     --color-text-complement: #9C98A6;
     --color-text-base: #6A6180;

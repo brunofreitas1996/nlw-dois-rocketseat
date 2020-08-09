@@ -14,7 +14,7 @@
 ## 🖥 Preview 
 
 <p align="center">
-  <img src="https://ik.imagekit.io/capitao/Proffy/preview_9WT1Wt2Jz.png" width="700" >
+  <img src="https://github.com/brunofreitas1996/nlw-dois-rocketseat/blob/master/public/images/ultimodia.png?raw=true" width="700" >
 </p>
 
 ---
